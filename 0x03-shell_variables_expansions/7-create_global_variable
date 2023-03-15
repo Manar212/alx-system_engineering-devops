@@ -1,2 +1,2 @@
 #!/bin/bash
-xport BEST=School
+xport BEST="School *"
